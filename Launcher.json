@@ -1,8 +1,8 @@
 {
 	"Version": "1.01",
-	"FileList": "http://45.235.206.154/dayz/filelist.json",
-	"FileDelete": "http://45.235.206.154/dayz/filedelete.json",
-	"DownloadUpdate": "http://45.235.206.154/dayz/game/",
+	"FileList": "http://26.113.252.163/dayz/filelist.json",
+	"FileDelete": "http://26.113.252.163/dayz/filedelete.json",
+	"DownloadUpdate": "http://26.113.252.163/dayz/game/",
 	"News": [
 		"https://i.ibb.co/7J4RsMc3/494222550-9618927158183862-8446822664455613211-n.jpg",
 		"https://i.ibb.co/gbT7nN9g/494307945-9618927134850531-8242950253390017686-n.jpg",
